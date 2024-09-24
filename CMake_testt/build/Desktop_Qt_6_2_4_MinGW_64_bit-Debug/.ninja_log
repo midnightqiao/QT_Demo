@@ -1,0 +1,9 @@
+# ninja log v6
+2	374	7488696605930511	CMake_testt_autogen/timestamp	a386bb95ef1e18e6
+2	374	7488696605930511	CMake_testt_autogen/mocs_compilation.cpp	a386bb95ef1e18e6
+2	374	7488696605930511	E:/QT_Demo/CMake_testt/build/Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMake_testt_autogen/timestamp	a386bb95ef1e18e6
+2	374	7488696605930511	E:/QT_Demo/CMake_testt/build/Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMake_testt_autogen/mocs_compilation.cpp	a386bb95ef1e18e6
+392	1475	7488696606674746	CMakeFiles/CMake_testt.dir/CMake_testt_autogen/mocs_compilation.cpp.obj	c8064b7311c360a6
+399	1621	7488696606741353	CMakeFiles/CMake_testt.dir/main.cpp.obj	91766b2f5b3b9607
+401	1622	7488696606771445	CMakeFiles/CMake_testt.dir/dialog.cpp.obj	1589ef5086f6ef60
+1632	1797	7488696619078759	CMake_testt.exe	861c05f478fbe996
